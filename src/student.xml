@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student no="s001">
+        <sex>male</sex>
+        <name>Tom</name>
+        <weight>145</weight>
+    </student>
+    <student no="s002">
+        <sex>female</sex>
+        <name>Jerry</name>
+        <weight>100</weight>
+    </student>
+</students>
