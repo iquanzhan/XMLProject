@@ -1,4 +1,4 @@
-package com.chengxiaoxiao.dom;
+package com.chengxiaoxiao.xml;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
